@@ -2,7 +2,7 @@
   <img src="../image/logo.svg" alt="Title Case Logo" width="210"/>
   <h1>Title Case</h1>
   <p><a href="/docs/README-EN.md">English</a></p>
-  <p><a href="https://github.com/BarudakRosul/title-case/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Laporkan Bug</a> · <a href="https://github.com/BarudakRosul/title-case/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Ajukan Fitur</a></p>
+  <p><a href="https://github.com/BarudakRosul/title-case/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a> · <a href="https://github.com/BarudakRosul/title-case/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a></p>
   <p>
     <a href="https://github.com/BarudakRosul/title-case/actions/workflows/test.yml"><img src="https://github.com/BarudakRosul/title-case/actions/workflows/test.yml/badge.svg" alt="Testing"/></a>
     <a href="https://npmjs.com/package/@barudakrosul/title-case"><img src="https://img.shields.io/node/v/%40barudakrosul%2Ftitle-case" alt="Node Engines"/></a>
@@ -42,7 +42,7 @@ Title Case offers the following features:
 
 ## Installation
 
-To install Split Words locally, follow these installation steps:
+To install Title Case locally, follow these installation steps:
 
 ```shell
 npm install @barudakrosul/title-case
@@ -50,7 +50,7 @@ npm install @barudakrosul/title-case
 
 ## Usage
 
-To start using Split Words, import the module first:
+To start using Title Case, import the module first:
 
 **1\. CommonJS**
 ```javascript
@@ -115,6 +115,6 @@ Every donation, no matter the amount, means a lot to us. Thank you for your supp
 
 Keep up with the latest changes and updates of Title Case by referring to [Changelog](https://github.com/BarudakRosul/title-case/releases).
 
-Terima kasih telah memilih Title Case! Kami bertujuan untuk memberikan solusi yang mudah untuk mengubah teks string ke dalam format judul.
+Thank you for choosing Title Case! We aim to provide an easy solution to convert string text into title format.
 
 [![Stand with Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
