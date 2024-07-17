@@ -1,0 +1,43 @@
+{
+  "name": "@barudakrosul/title-case",
+  "version": "0.0.1",
+  "description": "Converts a string to title case, where the first letter of each word is capitalized",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/title-case.git"
+  },
+  "keywords": [
+    "title-case",
+    "capitalize",
+    "capitalized",
+    "letters"
+  ],
+  "author": "Barudak Rosul",
+  "license": "CC0-1.0",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=11"
+  },
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/title-case/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/title-case#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "dependencies": {
+    "@barudakrosul/split-words": "^0.0.1"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.6.0"
+  }
+}
